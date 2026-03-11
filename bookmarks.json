@@ -1,0 +1,175 @@
+{
+  "collections": [
+    {
+      "id": "b7fea125-d5be-4068-84a5-040f57c70637",
+      "name": "Kodar.Ninja",
+      "isOpen": false,
+      "lastModified": 1773255394933,
+      "deleted": false,
+      "position": 2,
+      "bookmarks": [
+        {
+          "title": "TheFile.Ninja",
+          "url": "https://thefile.ninja/",
+          "description": "A superfast, future-ready file manager powered by Everything.",
+          "icon": "https://thefile.ninja/favicon.ico",
+          "id": "2b9eea23-644a-4def-b94a-b4fc8fc6cddb",
+          "deleted": false,
+          "lastModified": 1737456756973,
+          "position": 5,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        },
+        {
+          "title": "Labs.Kodar.Ninja",
+          "url": "https://labs.kodar.ninja/",
+          "description": "All my projects and experiments at one place.",
+          "icon": "https://thefile.ninja/favicon.ico",
+          "id": "2b9eea24-144a-4dff-b94a-b4fc8fc6cddb",
+          "deleted": false,
+          "lastModified": 1737456756973,
+          "position": 6,
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
+      "id": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
+      "name": "HA",
+      "isOpen": true,
+      "lastModified": 1773254405205,
+      "deleted": false,
+      "position": 1,
+      "bookmarks": [
+        {
+          "id": "b89a9f50-0ecc-4ae2-b29f-573cf00f4822",
+          "title": "Home Assistant",
+          "url": "http://homeassistant:8123/app/core_ssh",
+          "description": "",
+          "icon": "http://homeassistant:8123/static/icons/favicon.ico",
+          "lastModified": 1773254377443,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    },
+    {
+      "id": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+      "name": "Homelab",
+      "isOpen": true,
+      "lastModified": 1773254509263,
+      "deleted": false,
+      "position": 0,
+      "bookmarks": [
+        {
+          "id": "bb7be6e8-8a40-440d-8b8a-1f6ec89e7fd5",
+          "title": "ZimaOS",
+          "url": "http://192.168.86.35/?t=1771797700701#/",
+          "description": "",
+          "icon": "http://192.168.86.35/images/zimaos-logo.svg",
+          "lastModified": 1773254496775,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        },
+        {
+          "id": "193fad2d-65a7-4152-986e-1ffb699d41be",
+          "title": "Tailscale",
+          "url": "https://login.tailscale.com/login?next_url=%2Fadmin%2Fmachines%3Frefreshed%3Dtrue",
+          "description": "",
+          "icon": "https://login.tailscale.com/favicon.ico",
+          "lastModified": 1773254411539,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        },
+        {
+          "id": "07a256f9-ad1f-448a-b52a-283b5528cf1a",
+          "title": "Home · TeslaMate",
+          "url": "http://192.168.86.35:8069/",
+          "description": "",
+          "icon": "http://192.168.86.35:8069/favicon.ico?v=5AB53N3ALo",
+          "lastModified": 1773254423795,
+          "deleted": false,
+          "position": 2,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        },
+        {
+          "id": "8eef521b-4993-4c30-8533-e510a6e7a0f1",
+          "title": "AdGuard Home",
+          "url": "http://100.65.184.34:3000/",
+          "description": "",
+          "icon": "http://100.65.184.34:3000/assets/favicon.png",
+          "lastModified": 1773254429191,
+          "deleted": false,
+          "position": 3,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        },
+        {
+          "id": "fa6693a9-f183-40c1-9376-36cc9e0089f5",
+          "title": "Paused - 2.1 GB left - SABnzbd",
+          "url": "http://localhost:8080/",
+          "description": "",
+          "icon": "http://localhost:8080/staticcfg/ico/faviconpaused.ico?v=1.1.0",
+          "lastModified": 1773254482930,
+          "deleted": false,
+          "position": 4,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        },
+        {
+          "id": "29687ef4-52e0-4a55-8f30-2df49e6ae24a",
+          "title": "Search - Prowlarr",
+          "url": "http://localhost:9696/search",
+          "description": "",
+          "icon": "http://localhost:9696/favicon.ico",
+          "lastModified": 1773254509263,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
+    }
+  ],
+  "openInNewTab": true,
+  "chromeWindowStates": {
+    "23438446": true
+  },
+  "darkMode": false,
+  "leftPaneOpen": true,
+  "rightPaneOpen": true,
+  "closeWhenSaveTab": true,
+  "activeLeftTab": "settings",
+  "zenMode": false,
+  "spaces": [
+    {
+      "name": "Everything",
+      "deleted": false,
+      "lastModified": 1773255468038
+    }
+  ],
+  "currentSpace": "Everything",
+  "collectionSortOrder": "userdefined",
+  "autoBackup": {
+    "enabled": true,
+    "frequency": "weekly",
+    "keepDays": 30,
+    "lastBackup": null,
+    "customFolderName": "TheTabNinja",
+    "useCustomFolder": true
+  },
+  "githubConfig": {
+    "username": "Rockl0bster",
+    "repo": "Tabbe",
+    "filepath": "bookmarks.json"
+  },
+  "lastSynced": 1773255468038
+}
