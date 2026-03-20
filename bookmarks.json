@@ -39,7 +39,7 @@
       "id": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
       "name": "HA",
       "isOpen": true,
-      "lastModified": 1773254405205,
+      "lastModified": 1774048648173,
       "deleted": false,
       "position": 1,
       "bookmarks": [
@@ -52,6 +52,17 @@
           "lastModified": 1773254377443,
           "deleted": false,
           "position": 0,
+          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
+        },
+        {
+          "id": "65af215d-c1bb-4bd0-9040-c8f8cfc2a8c2",
+          "title": "Rockl0bster (Rune)",
+          "url": "https://github.com/Rockl0bster",
+          "description": "",
+          "icon": "https://github.githubassets.com/favicons/favicon.svg",
+          "lastModified": 1774048648173,
+          "deleted": false,
+          "position": 1,
           "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
         }
       ],
@@ -171,5 +182,5 @@
     "repo": "Tabbe",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1773255468038
+  "lastSynced": 1774048659812
 }
