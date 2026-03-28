@@ -4,9 +4,9 @@
       "id": "b7fea125-d5be-4068-84a5-040f57c70637",
       "name": "Kodar.Ninja",
       "isOpen": false,
-      "lastModified": 1773255394933,
+      "lastModified": 1774694658981,
       "deleted": false,
-      "position": 2,
+      "position": 3,
       "bookmarks": [
         {
           "title": "TheFile.Ninja",
@@ -39,9 +39,9 @@
       "id": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
       "name": "HA",
       "isOpen": true,
-      "lastModified": 1774214729790,
+      "lastModified": 1774694658981,
       "deleted": false,
-      "position": 1,
+      "position": 2,
       "bookmarks": [
         {
           "id": "b89a9f50-0ecc-4ae2-b29f-573cf00f4822",
@@ -85,9 +85,9 @@
       "id": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
       "name": "Homelab",
       "isOpen": true,
-      "lastModified": 1773254509263,
+      "lastModified": 1774694658981,
       "deleted": false,
-      "position": 0,
+      "position": 1,
       "bookmarks": [
         {
           "id": "bb7be6e8-8a40-440d-8b8a-1f6ec89e7fd5",
@@ -159,6 +159,41 @@
       "spaces": [
         "Everything"
       ]
+    },
+    {
+      "id": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+      "name": "Start",
+      "isOpen": true,
+      "lastModified": 1774694677083,
+      "deleted": false,
+      "position": 0,
+      "bookmarks": [
+        {
+          "id": "bddf8d76-d542-4384-9e3b-c2b1d688bf6c",
+          "title": "Klage på gjenstander / sko ved dør - rune.aldstedt@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/1/#inbox/FMfcgzQfBZcMTlkwlKFgkzGkjqqCDKdB",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+          "lastModified": 1774694673864,
+          "deleted": false,
+          "position": 0,
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+        },
+        {
+          "id": "8292f514-8c00-4ade-87b8-c3af1e481d86",
+          "title": "Confirmation instructions - runereg@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQfCDPbQlfRlCWxsRxbhtVzQChT",
+          "description": "",
+          "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+          "lastModified": 1774694677083,
+          "deleted": false,
+          "position": 1,
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+        }
+      ],
+      "spaces": [
+        "Everything"
+      ]
     }
   ],
   "openInNewTab": true,
@@ -193,5 +228,5 @@
     "repo": "Tabbe",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1774214757805
+  "lastSynced": 1774694684333
 }
