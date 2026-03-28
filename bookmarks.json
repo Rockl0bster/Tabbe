@@ -164,7 +164,7 @@
       "id": "66ccd993-fdb2-415c-a137-c13f5a62475d",
       "name": "Start",
       "isOpen": true,
-      "lastModified": 1774694677083,
+      "lastModified": 1774703289892,
       "deleted": false,
       "position": 0,
       "bookmarks": [
@@ -188,6 +188,17 @@
           "lastModified": 1774694677083,
           "deleted": false,
           "position": 1,
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+        },
+        {
+          "id": "ad5ddb77-0715-4e3c-bbdb-2f34b07d4d07",
+          "title": "Google Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
+          "lastModified": 1774703289892,
+          "deleted": false,
+          "position": 2,
           "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
         }
       ],
@@ -228,5 +239,5 @@
     "repo": "Tabbe",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1774694684333
+  "lastSynced": 1774703307141
 }
