@@ -164,7 +164,7 @@
       "id": "66ccd993-fdb2-415c-a137-c13f5a62475d",
       "name": "Start",
       "isOpen": true,
-      "lastModified": 1775466259194,
+      "lastModified": 1775940214068,
       "deleted": false,
       "position": 0,
       "bookmarks": [
@@ -222,6 +222,17 @@
           "deleted": false,
           "position": 4,
           "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+        },
+        {
+          "id": "dda7eec4-c54e-4436-8e42-cdfb8f7d11c3",
+          "title": "Customize your New Tab page in Chrome - Computer - Google Chrome Help",
+          "url": "https://support.google.com/chrome/answer/11032183?sjid=14525511429858653005-EU",
+          "description": "",
+          "icon": "https://support.google.com/favicon.png",
+          "lastModified": 1775940214068,
+          "deleted": false,
+          "position": 5,
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
         }
       ],
       "spaces": [
@@ -261,5 +272,5 @@
     "repo": "Tabbe",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1775466266045
+  "lastSynced": 1775940218985
 }
