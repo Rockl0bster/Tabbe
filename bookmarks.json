@@ -17,7 +17,8 @@
           "deleted": false,
           "lastModified": 1737456756973,
           "position": 5,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637",
+          "tags": []
         },
         {
           "title": "Labs.Kodar.Ninja",
@@ -28,7 +29,8 @@
           "deleted": false,
           "lastModified": 1737456756973,
           "position": 6,
-          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637"
+          "parentCollection": "b7fea125-d5be-4068-84a5-040f57c70637",
+          "tags": []
         }
       ],
       "spaces": [
@@ -52,7 +54,8 @@
           "lastModified": 1773254377443,
           "deleted": false,
           "position": 0,
-          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
+          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
+          "tags": []
         },
         {
           "id": "65af215d-c1bb-4bd0-9040-c8f8cfc2a8c2",
@@ -63,7 +66,8 @@
           "lastModified": 1774048648173,
           "deleted": false,
           "position": 1,
-          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
+          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
+          "tags": []
         },
         {
           "id": "c996b4f0-7a3a-42d5-a44e-b797ed2e7166",
@@ -74,7 +78,8 @@
           "lastModified": 1774214729790,
           "deleted": false,
           "position": 2,
-          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c"
+          "parentCollection": "bf4cc1a1-99f0-4716-960d-f0b98bacc43c",
+          "tags": []
         }
       ],
       "spaces": [
@@ -85,7 +90,7 @@
       "id": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
       "name": "Homelab",
       "isOpen": true,
-      "lastModified": 1774694658981,
+      "lastModified": 1785185797160,
       "deleted": false,
       "position": 1,
       "bookmarks": [
@@ -98,7 +103,8 @@
           "lastModified": 1773254496775,
           "deleted": false,
           "position": 0,
-          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
         },
         {
           "id": "193fad2d-65a7-4152-986e-1ffb699d41be",
@@ -109,7 +115,8 @@
           "lastModified": 1773254411539,
           "deleted": false,
           "position": 1,
-          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
         },
         {
           "id": "07a256f9-ad1f-448a-b52a-283b5528cf1a",
@@ -120,7 +127,8 @@
           "lastModified": 1773254423795,
           "deleted": false,
           "position": 2,
-          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
         },
         {
           "id": "8eef521b-4993-4c30-8533-e510a6e7a0f1",
@@ -131,7 +139,8 @@
           "lastModified": 1773254429191,
           "deleted": false,
           "position": 3,
-          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
         },
         {
           "id": "fa6693a9-f183-40c1-9376-36cc9e0089f5",
@@ -142,7 +151,8 @@
           "lastModified": 1773254482930,
           "deleted": false,
           "position": 4,
-          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
         },
         {
           "id": "29687ef4-52e0-4a55-8f30-2df49e6ae24a",
@@ -153,6 +163,18 @@
           "lastModified": 1773254509263,
           "deleted": false,
           "position": 5,
+          "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2",
+          "tags": []
+        },
+        {
+          "id": "c38db903-34de-4c93-b06c-e4359c74f2c5",
+          "title": "Hermes Agent - Dashboard",
+          "url": "http://10.147.17.1:9119/models",
+          "description": "",
+          "icon": "http://10.147.17.1:9119/favicon.ico",
+          "lastModified": 1785185797160,
+          "deleted": false,
+          "position": 6,
           "parentCollection": "5e86fe2b-ca65-4382-8df4-d3180c7856b2"
         }
       ],
@@ -177,7 +199,8 @@
           "lastModified": 1774694673864,
           "deleted": false,
           "position": 0,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         },
         {
           "id": "8292f514-8c00-4ade-87b8-c3af1e481d86",
@@ -188,7 +211,8 @@
           "lastModified": 1774694677083,
           "deleted": false,
           "position": 1,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         },
         {
           "id": "ad5ddb77-0715-4e3c-bbdb-2f34b07d4d07",
@@ -199,7 +223,8 @@
           "lastModified": 1774703289892,
           "deleted": false,
           "position": 2,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         },
         {
           "id": "2969c811-9312-4139-8a30-ea3f817bfd91",
@@ -210,7 +235,8 @@
           "lastModified": 1775395356595,
           "deleted": false,
           "position": 3,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         },
         {
           "id": "6cc0ddc4-79f5-4589-b59f-f5fbc346b5da",
@@ -221,7 +247,8 @@
           "lastModified": 1775466259194,
           "deleted": false,
           "position": 4,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         },
         {
           "id": "dda7eec4-c54e-4436-8e42-cdfb8f7d11c3",
@@ -232,7 +259,8 @@
           "lastModified": 1775940214068,
           "deleted": false,
           "position": 5,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         }
       ],
       "spaces": [
@@ -250,6 +278,15 @@
   "closeWhenSaveTab": true,
   "activeLeftTab": "settings",
   "zenMode": false,
+  "zenConfig": {
+    "clockFormat": "24h",
+    "showSeconds": false,
+    "clockStyle": "digital",
+    "clockFont": "system",
+    "greetingEnabled": true,
+    "greetingLocale": "auto",
+    "ambientAnimation": "none"
+  },
   "spaces": [
     {
       "name": "Everything",
@@ -259,6 +296,9 @@
   ],
   "currentSpace": "Everything",
   "collectionSortOrder": "userdefined",
+  "hideCoffeeButton": false,
+  "autoShowLeftPane": false,
+  "autoShowRightPane": false,
   "autoBackup": {
     "enabled": true,
     "frequency": "weekly",
@@ -272,5 +312,17 @@
     "repo": "Tabbe",
     "filepath": "bookmarks.json"
   },
-  "lastSynced": 1775940218985
+  "googleDriveConfig": {
+    "fileName": "tabninja-bookmarks.json"
+  },
+  "localDriveConfig": {
+    "fileName": "tabninja-bookmarks.json"
+  },
+  "customCSS": {
+    "enabled": false,
+    "code": ""
+  },
+  "lastSynced": 1785185852483,
+  "settingsLastModified": 0,
+  "schemaVersion": 2
 }
