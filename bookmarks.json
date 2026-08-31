@@ -292,11 +292,12 @@
           "title": "AliExpress - Affordable Chinese Stores & Free Shipping - Online Shopping",
           "url": "https://www.aliexpress.com/",
           "description": "",
-          "icon": "assets/icons/default-icon.png",
+          "icon": "assets/icons/fallback-icon.svg",
           "lastModified": 1787320793953,
           "deleted": false,
           "position": 6,
-          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d"
+          "parentCollection": "66ccd993-fdb2-415c-a137-c13f5a62475d",
+          "tags": []
         }
       ],
       "spaces": [
@@ -358,6 +359,6 @@
     "code": ""
   },
   "settingsLastModified": 1785246494099,
-  "lastSynced": 1787320915564,
+  "lastSynced": 1788173523050,
   "schemaVersion": 2
 }
